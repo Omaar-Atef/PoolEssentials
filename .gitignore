@@ -1,0 +1,26 @@
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+Pools/.vs/
+
+
+Pools/DataLayer/obj/
+Pools/DataLayer/bin/
+
+Pools/Services/obj/
+Pools/Services/bin/
+
+Pools/BusinessLayer/obj/
+Pools/BusinessLayer/bin/
+
+
+Pools/application.pl/obj/
+Pools/application.pl/bin/ 
+*/bin
+*/obj
+/Pools/.vs/carvista/v17/TestStore/0/000.testlog
+/Pools/.vs/carvista/v17/TestStore/0/testlog.manifest
+**/bin/
+**/obj/
+**/.vs/
+**/wwwroot/uploads/
