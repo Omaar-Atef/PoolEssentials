@@ -1,0 +1,13 @@
+D:\Abdo\Pools\Services\bin\Debug\net8.0\Services.deps.json
+D:\Abdo\Pools\Services\bin\Debug\net8.0\Services.dll
+D:\Abdo\Pools\Services\bin\Debug\net8.0\Services.pdb
+D:\Abdo\Pools\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Abdo\Pools\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdo\Pools\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Abdo\Pools\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Abdo\Pools\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Abdo\Pools\Services\obj\Debug\net8.0\Services.sourcelink.json
+D:\Abdo\Pools\Services\obj\Debug\net8.0\Services.dll
+D:\Abdo\Pools\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Abdo\Pools\Services\obj\Debug\net8.0\Services.pdb
+D:\Abdo\Pools\Services\obj\Debug\net8.0\ref\Services.dll
