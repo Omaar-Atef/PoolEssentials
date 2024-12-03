@@ -1,6 +1,0 @@
-D:\Abdo\Pools\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.AssemblyReference.cache
-D:\Abdo\Pools\BusinessLayer\obj\Debug\net8.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
-D:\Abdo\Pools\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfoInputs.cache
-D:\Abdo\Pools\BusinessLayer\obj\Debug\net8.0\BusinessLayer.AssemblyInfo.cs
-D:\Abdo\Pools\BusinessLayer\obj\Debug\net8.0\BusinessLayer.csproj.CoreCompileInputs.cache
-D:\Abdo\Pools\BusinessLayer\obj\Debug\net8.0\BusinessLayer.sourcelink.json
