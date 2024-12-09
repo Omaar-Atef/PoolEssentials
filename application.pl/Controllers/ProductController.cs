@@ -130,7 +130,6 @@ namespace application.pl.Controllers
             return BadRequest(ModelState);
         }
 
-        [HttpGet("{menuId}/menuitems")]
 
         [HttpGet("{name}/GetByName")]
         public async Task<IActionResult> GetByName(string name)
